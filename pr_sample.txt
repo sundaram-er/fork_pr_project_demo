@@ -1,3 +1,2 @@
 Hi This is sample file for fork demo
 This file is edited from another project
-This is new line for demo merge request
