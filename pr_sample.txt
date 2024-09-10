@@ -1,4 +1,4 @@
 Hi This is sample file for fork demo
 This file is edited from another project
 New line added
-This line cause merge conflict from original or upstream project
+This line cause merge conflict from a upstream project
