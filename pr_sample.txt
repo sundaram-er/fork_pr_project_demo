@@ -1,4 +1,4 @@
 Hi This is sample file for fork demo
 This file is edited from another project
 New line added
-This line is added from temp branch
+This line cause merge conflict from original or upstream project
